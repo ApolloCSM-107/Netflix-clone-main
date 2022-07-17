@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "netflix-clone-770e2"
-  }
+    "netflix clone": "netflix-clone-88cd7",
+    "default": "netflix-clone-88cd7"
+  },
+  "targets": {},
+  "etags": {}
 }
