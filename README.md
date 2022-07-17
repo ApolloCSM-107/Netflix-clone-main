@@ -9,6 +9,7 @@ React+TypeScriptで作るNetflixクローンアプリです。
 - 映画をクリックすると、映画があればプロモーション用のYoutube動画をiFrameで表示する。
 
 以下のサイトから確認することができます。
+
 https://netflix-clone-topaz-nine.vercel.app/
 # usage
 
